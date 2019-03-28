@@ -1,1 +1,1 @@
-# MSD-Konfig-bung-Git
+# MSD-Konfig-uebung-Git
